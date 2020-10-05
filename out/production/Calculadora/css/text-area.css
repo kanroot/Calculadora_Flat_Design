@@ -1,0 +1,6 @@
+.text-area *.content{
+    -fx-background-color: #000000;
+    -fx-border-color: #6B2332;
+    -fx-border-width: 1;
+    -fx-font: 30 roboto;
+}

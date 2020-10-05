@@ -1,0 +1,17 @@
+.button{
+    -fx-background-color: #000000;
+    -fx-background-radius: 0;
+    -fx-text-fill: #ffffff;
+    -fx-border-color:#262626;
+}
+.button1{
+    -fx-background-color: #1a1a1a;
+    -fx-background-radius: 0;
+    -fx-text-fill: #ffffff;
+    -fx-border-color:#262626;
+}
+.button:pressed{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 0;
+    -fx-text-fill:#000000 ;
+}
